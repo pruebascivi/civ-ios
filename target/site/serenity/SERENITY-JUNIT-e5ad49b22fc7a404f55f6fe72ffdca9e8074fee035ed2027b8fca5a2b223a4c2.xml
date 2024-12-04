@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Modulo Meter plata" skipped="0" tests="1" time="14.75" timestamp="2023-11-22 08:47:28"><testcase name="CP0811M_SYS_Validar que se encuentre presente la opción meter plata en el Home de la app."><failure message="No se encontro boton notificaciones, debido a: Expected condition failed: waiting for element to be clickable: By.xpath: //*[@name='Menu de conocimiento'] (tried for 5 second(s) with 500 milliseconds interval)" type="java.lang.AssertionError">No se encontro boton notificaciones, debido a: Expected condition failed: waiting for element to be clickable: By.xpath: //*[@name='Menu de conocimiento'] (tried for 5 second(s) with 500 milliseconds interval)</failure><system-err>No se encontro boton notificaciones, debido a: Expected condition failed: waiting for element to be clickable: By.xpath: //*[@name='Menu de conocimiento'] (tried for 5 second(s) with 500 milliseconds interval)
+daviplata.nacional.iOS.pageObjects.AcercaDePageObjects.darClickBotonNotificaciones(AcercaDePageObjects.java:133)
+daviplata.nacional.iOS.pageObjects.AcercaDePageObjects.darClickBotonAcercaDP(AcercaDePageObjects.java:147)
+daviplata.nacional.iOS.pageObjects.AcercaDePageObjects.obtenerAppVersion(AcercaDePageObjects.java:469)
+daviplata.nacional.iOS.steps.LoginSteps.ingresarAApp(LoginSteps.java:64)
+daviplata.nacional.iOS.definitions.LoginDefinitions.ingresoUsuarioYContrasena(LoginDefinitions.java:54)
+✽.ingreso usuario y contrasena "CC" "1020770054" "1342"(src/test/resources/features/MeterPlata.feature:6)
+</system-err></testcase></testsuite>

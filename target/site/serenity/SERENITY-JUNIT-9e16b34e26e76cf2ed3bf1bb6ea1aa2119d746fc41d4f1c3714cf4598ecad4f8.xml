@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Registro Civica" skipped="0" tests="1" time="89.57" timestamp="2024-02-26 11:31:59"><testcase name="CP0027M_SYS_Validar que se permita realizar exitosamente un registro de cliente con Tarjeta de Identidad,  mayores a 13 años de lo contrario muestra el mensaje “No cuentas con la edad mínima requerida para el registro”"><failure message="No pudo interactuar con el elemento: //XCUIElementTypeOther[@name='Ingresa o regístrate']" type="java.lang.AssertionError">No pudo interactuar con el elemento: //XCUIElementTypeOther[@name='Ingresa o regístrate']</failure><system-err>No pudo interactuar con el elemento: //XCUIElementTypeOther[@name='Ingresa o regístrate']
+civica.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:203)
+civica.nacional.iOS.steps.RegistroCivicaSteps.enterCredentials1(RegistroCivicaSteps.java:28)
+civica.nacional.iOS.definitions.RegistroCivicaDefinitions.registroDeLasCredencialesManual(RegistroCivicaDefinitions.java:24)
+✽.registro de las credenciales manual "TI" "897745" "1234" "30" "Noviembre" "2016"(src/test/resources/features/RegistroCivica.feature:118)
+</system-err></testcase></testsuite>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Registro Civica" skipped="0" tests="1" time="233.88" timestamp="2024-02-22 05:24:03"><testcase name="CP00291M_SYS_Validar el registro fallido en la APP Civica de un usuario nuevo pero con un numero movil de un usuario de subtipo MET"><failure message="No se pudo interactual con el elemento. Mensaje de error: Operation timed out (Connection timed out)" type="java.lang.AssertionError">No se pudo interactual con el elemento. Mensaje de error: Operation timed out (Connection timed out)</failure><system-err>No se pudo interactual con el elemento. Mensaje de error: Operation timed out (Connection timed out)
+civica.nacional.iOS.steps.RegistroCivicaSteps.verificateCode(RegistroCivicaSteps.java:176)
+civica.nacional.iOS.definitions.RegistroCivicaDefinitions.verificoCodigoDeVerificacionEnElCorreo(RegistroCivicaDefinitions.java:49)
+✽.valido código de verificación en el correo(src/test/resources/features/RegistroCivica.feature:103)
+</system-err></testcase></testsuite>

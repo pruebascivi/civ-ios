@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Recargar tarjeta Cívica" skipped="0" tests="1" time="224.94" timestamp="2024-03-13 11:07:28"><testcase name="CP0051M_SYS_Realizar una recarga de tarjeta Cívica exitoso con un usuario MET a un usuario Migrado."><failure message="No pudo interactuar con el elemento: //XCUIElementTypeSecureTextField[@name='Ingresa tu clave']" type="java.lang.AssertionError">No pudo interactuar con el elemento: //XCUIElementTypeSecureTextField[@name='Ingresa tu clave']</failure><system-err>No pudo interactuar con el elemento: //XCUIElementTypeSecureTextField[@name='Ingresa tu clave']
+civica.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:245)
+civica.nacional.iOS.steps.LoginCivicaSteps.enterCredentials(LoginCivicaSteps.java:123)
+civica.nacional.iOS.definitions.LoginCivicaDefinitions.ingresoLasCredenciales(LoginCivicaDefinitions.java:32)
+✽.ingreso las credenciales "CC" "999793" "2580"(src/test/resources/features/RecargaTarjetaCivica.feature:104)
+</system-err></testcase></testsuite>

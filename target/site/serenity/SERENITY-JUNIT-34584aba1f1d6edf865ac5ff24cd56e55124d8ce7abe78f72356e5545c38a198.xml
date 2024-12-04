@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Recargar Celular Cívica" skipped="0" tests="1" time="45.35" timestamp="2024-03-15 04:39:12"><testcase name="CP0044M_SYS_Realizar una recarga de celular con un usuario CE."><error type="java.lang.NullPointerException"/><system-err>null
+civica.nacional.iOS.definitions.WebRedebanDefinitions.consultarSaldoTarjetaEnRedebanPasarPlata(WebRedebanDefinitions.java:218)
+✽.Consultar saldos en redeban(src/test/resources/features/RecargarCelular.feature:39)
+</system-err></testcase></testsuite>

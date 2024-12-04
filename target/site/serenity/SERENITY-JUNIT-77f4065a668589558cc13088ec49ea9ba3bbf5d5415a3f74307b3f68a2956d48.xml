@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Cambio de clave por olvido" skipped="0" tests="1" time="76.39" timestamp="2023-12-20 03:53:45"><testcase name="CP0019M_SYS_Realizar el cambio de clave para un usuario - CE."><failure message="No pudo interactuar con el elemento: //XCUIElementTypeTextField[@value=&quot;Correo electrónico&quot;]" type="java.lang.AssertionError">No pudo interactuar con el elemento: //XCUIElementTypeTextField[@value="Correo electrónico"]</failure><system-err>No pudo interactuar con el elemento: //XCUIElementTypeTextField[@value="Correo electrónico"]
+civica.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:164)
+civica.nacional.iOS.steps.CambioClaveOlvidoSteps.confirmEmail(CambioClaveOlvidoSteps.java:82)
+civica.nacional.iOS.definitions.CambioClaveOlvidoDefinitions.confirmoCorreoElectronicoYCreoClave(CambioClaveOlvidoDefinitions.java:34)
+✽.confirmo correo electrónico y creo clave "pruebaslabcivi@gmail.com" "4569"(src/test/resources/features/CambioClaveOlvidoCivica.feature:23)
+</system-err></testcase></testsuite>

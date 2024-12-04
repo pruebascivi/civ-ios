@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Registro Civica" skipped="0" tests="1" time="276.76" timestamp="2024-09-04 10:16:37"><testcase name="Registro_CP0034M_SYS_Validar el registro de un usuario TI, quede con subtipo MET + Mensaje de Bienvenida"><failure message="¡Ups! Lo sentimos. Tu registro no pudo continuar. Para más información ingresa al botón ¿Necesitas ayuda?" type="java.lang.AssertionError">¡Ups! Lo sentimos. Tu registro no pudo continuar. Para más información ingresa al botón ¿Necesitas ayuda?</failure><system-err>¡Ups! Lo sentimos. Tu registro no pudo continuar. Para más información ingresa al botón ¿Necesitas ayuda?
+civica.nacional.iOS.steps.RegistroCivicaSteps.authorizeTermsCond(RegistroCivicaSteps.java:281)
+civica.nacional.iOS.definitions.RegistroCivicaDefinitions.autorizoTerminosYCondiciones(RegistroCivicaDefinitions.java:67)
+✽.autorizo terminos y condiciones "3214411312"(src/test/resources/features/RegistroCivica.feature:61)
+</system-err></testcase></testsuite>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Cambio de clave por olvido" skipped="0" tests="1" time="83.73" timestamp="2023-12-05 09:01:12"><testcase name="Cambio de Clave - Realizar el cambio de clave para un usuario MET - CC."><failure message="No pudo interactuar con el elemento: //XCUIElementTypeOther[@name=&quot;Ingresa o regístrate&quot;]" type="java.lang.AssertionError">No pudo interactuar con el elemento: //XCUIElementTypeOther[@name="Ingresa o regístrate"]</failure><system-err>No pudo interactuar con el elemento: //XCUIElementTypeOther[@name="Ingresa o regístrate"]
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:216)
+daviplata.nacional.iOS.steps.LoginRobustoSteps.enterCredentials(LoginRobustoSteps.java:44)
+daviplata.nacional.iOS.definitions.LoginRobustoDefinitions.ingresoLasCredenciales(LoginRobustoDefinitions.java:45)
+✽.ingreso las credenciales "CC" "10305051" "1429"(src/test/resources/features/CambioClaveOlvido.feature:13)
+</system-err></testcase></testsuite>

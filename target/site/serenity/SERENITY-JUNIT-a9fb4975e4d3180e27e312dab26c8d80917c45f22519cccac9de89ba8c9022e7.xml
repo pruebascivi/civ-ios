@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Sacar Plata Civica" skipped="0" tests="1" time="67.24" timestamp="2024-08-21 11:06:07"><testcase name="CP0039M_SYS_Realizar un sacar plata exitoso con un usuario MET - CC a un monedero Civica"><failure message="No pudo interactuar con el elemento: //XCUIElementTypeOther[@name='Ingresa o regístrate']" type="java.lang.AssertionError">No pudo interactuar con el elemento: //XCUIElementTypeOther[@name='Ingresa o regístrate']</failure><system-err>No pudo interactuar con el elemento: //XCUIElementTypeOther[@name='Ingresa o regístrate']
+civica.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:242)
+civica.nacional.iOS.steps.LoginCivicaSteps.enterCredentials(LoginCivicaSteps.java:129)
+civica.nacional.iOS.definitions.LoginCivicaDefinitions.ingresoLasCredenciales(LoginCivicaDefinitions.java:32)
+✽.ingreso las credenciales "CC" "999812" "0852"(src/test/resources/features/SacarPlataCivica.feature:14)
+</system-err></testcase></testsuite>

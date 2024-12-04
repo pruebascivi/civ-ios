@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Recargar tarjeta Cívica" skipped="0" tests="1" time="65.7" timestamp="2023-12-27 02:24:09"><testcase name="CP0053M_SYS_Realizar una&#9; recarga de tarjeta civica exitoso con un usuario MET a un usuario RAP."><failure message="Error de aserción: &#10;Expected: &quot;RAP&quot;&#10;     but: was &quot;MET&quot;" type="java.lang.AssertionError">Error de aserción: 
+Expected: "RAP"
+     but: was "MET"</failure><system-err>Error de aserción: 
+Expected: "RAP"
+     but: was "MET"
+civica.nacional.iOS.steps.WebRedebanSteps.consultasubtipo(WebRedebanSteps.java:582)
+civica.nacional.iOS.definitions.WebRedebanDefinitions.validarEnRedebanSubtipo(WebRedebanDefinitions.java:164)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+civica.nacional.iOS.runners.RunnerPersonalizado.run(RunnerPersonalizado.java:62)
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+</system-err></testcase></testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Recargar por PSE" skipped="0" tests="1" time="378.46" timestamp="2024-08-23 10:20:09"><testcase name="CP00472M_SYS_Realizar una recarga por PSE Civicapay a un usuario MET - CE."><failure message="Error de aserción: &#10;Expected: not &quot;577630&quot;&#10;     but: was &quot;577630&quot;" type="java.lang.AssertionError">Error de aserción: 
+Expected: not "577630"
+     but: was "577630"</failure><system-err>Error de aserción: 
+Expected: not "577630"
+     but: was "577630"
+civica.nacional.iOS.steps.PasarPlataCivicaSteps.capturarSaldosFinalesCivica(PasarPlataCivicaSteps.java:157)
+civica.nacional.iOS.definitions.PasarPlataCivicaDefinitions.validarSaldoFinalCivica(PasarPlataCivicaDefinitions.java:54)
+✽.Validar saldo final civica(src/test/resources/features/RecargaPseCivicaPay.feature:49)
+</system-err></testcase></testsuite>

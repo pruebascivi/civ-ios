@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Pasar Plata Core" skipped="0" tests="1" time="366.99" timestamp="2024-01-12 02:28:13"><testcase name="CP0031M_SYS_Realizar un pasar plata exitoso con un usuario MET - CE a un monedero Civica"><error message="An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: connect ECONNREFUSED 127.0.0.1:8100&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'MacBook-Pro-de-Pruebas.local', ip: 'fe80:0:0:0:8de:8886:4a2c:a612%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.5', java.version: '1.8.0_391'&#10;Driver info: io.appium.java_client.AppiumDriver&#10;Capabilities {autoAcceptAlerts: true, automationName: XCUITest, browserName: , bundleId: com.valid.superappcivica.lab, databaseEnabled: false, deviceName: iPhone 12, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 240, platform: MAC, platformName: MAC, platformVersion: 17, takesScreenshot: true, udid: 00008101-000E35003688801E, webStorageEnabled: false}&#10;Session ID: 33286716-b979-4de8-92a5-4872513fb0ba&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'MacBook-Pro-de-Pruebas.local', ip: 'fe80:0:0:0:8de:8886:4a2c:a612%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.5', java.version: '1.8.0_391'&#10;Driver info: driver.version: AppiumDriver" type="org.openqa.selenium.WebDriverException">An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: connect ECONNREFUSED 127.0.0.1:8100
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-de-Pruebas.local', ip: 'fe80:0:0:0:8de:8886:4a2c:a612%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.5', java.version: '1.8.0_391'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {autoAcceptAlerts: true, automationName: XCUITest, browserName: , bundleId: com.valid.superappcivica.lab, databaseEnabled: false, deviceName: iPhone 12, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 240, platform: MAC, platformName: MAC, platformVersion: 17, takesScreenshot: true, udid: 00008101-000E35003688801E, webStorageEnabled: false}
+Session ID: 33286716-b979-4de8-92a5-4872513fb0ba
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-de-Pruebas.local', ip: 'fe80:0:0:0:8de:8886:4a2c:a612%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.5', java.version: '1.8.0_391'
+Driver info: driver.version: AppiumDriver</error><system-err>An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: connect ECONNREFUSED 127.0.0.1:8100
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-de-Pruebas.local', ip: 'fe80:0:0:0:8de:8886:4a2c:a612%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.5', java.version: '1.8.0_391'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {autoAcceptAlerts: true, automationName: XCUITest, browserName: , bundleId: com.valid.superappcivica.lab, databaseEnabled: false, deviceName: iPhone 12, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 240, platform: MAC, platformName: MAC, platformVersion: 17, takesScreenshot: true, udid: 00008101-000E35003688801E, webStorageEnabled: false}
+Session ID: 33286716-b979-4de8-92a5-4872513fb0ba
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-de-Pruebas.local', ip: 'fe80:0:0:0:8de:8886:4a2c:a612%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.5', java.version: '1.8.0_391'
+Driver info: driver.version: AppiumDriver
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+civica.nacional.iOS.definitions.Hooks.FinalizarTests(Hooks.java:87)
+cucumber.runner.UnskipableStep.executeStep(UnskipableStep.java:22)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+civica.nacional.iOS.runners.RunnerPersonalizado.run(RunnerPersonalizado.java:62)
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+</system-err></testcase></testsuite>

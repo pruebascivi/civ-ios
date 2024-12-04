@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Pasar Plata Core" skipped="0" tests="1" time="70.7" timestamp="2024-02-14 02:06:15"><testcase name="CP003602M_SYS_Realizar un pasar plata exitoso con un usuario GMF a un OnHold"><failure message="Error de aserción: &#10;Expected: &quot;GMF&quot;&#10;     but: was &quot;BMO&quot;" type="java.lang.AssertionError">Error de aserción: 
+Expected: "GMF"
+     but: was "BMO"</failure><system-err>Error de aserción: 
+Expected: "GMF"
+     but: was "BMO"
+civica.nacional.iOS.steps.WebRedebanSteps.consultasubtipo(WebRedebanSteps.java:595)
+civica.nacional.iOS.definitions.WebRedebanDefinitions.validarEnRedebanSubtipo(WebRedebanDefinitions.java:164)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+civica.nacional.iOS.runners.RunnerPersonalizado.run(RunnerPersonalizado.java:62)
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+</system-err></testcase></testsuite>

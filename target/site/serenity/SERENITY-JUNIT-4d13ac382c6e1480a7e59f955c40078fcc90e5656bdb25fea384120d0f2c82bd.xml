@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Pago servicios publicos y privados" skipped="0" tests="1" time="349.51" timestamp="2024-09-11 11:22:47"><testcase name="Hacer_pagos_CP0064M_SYS_Validar el rechazo de pago de servicios publicos (ETB, Gas Natural, etc) cuando la referencia ya fue cancelada"/></testsuite>

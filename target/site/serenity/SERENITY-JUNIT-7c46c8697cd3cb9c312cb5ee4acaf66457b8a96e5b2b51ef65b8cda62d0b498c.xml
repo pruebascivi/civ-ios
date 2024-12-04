@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Cambio de clave por olvido" skipped="0" tests="1" time="62.73" timestamp="2023-12-05 12:34:01"><testcase name="Cambio de Clave por olvido - Realizar el cambio de clave para un usuario MET - CC."><failure message="No pudo interactuar con el elemento: //XCUIElementTypeButton[@name=&quot;Aceptar&quot;]" type="java.lang.AssertionError">No pudo interactuar con el elemento: //XCUIElementTypeButton[@name="Aceptar"]</failure><system-err>No pudo interactuar con el elemento: //XCUIElementTypeButton[@name="Aceptar"]
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:216)
+daviplata.nacional.iOS.steps.CambioClaveOlvidoSteps.confirmBadEmail(CambioClaveOlvidoSteps.java:49)
+daviplata.nacional.iOS.definitions.CambioClaveOlvidoDefinitions.ingresoCorreoErroneoYValidoMensajeError(CambioClaveOlvidoDefinitions.java:40)
+✽.ingreso correo erróneo y valido mensaje error "xxx@gmail.com" "1432" "CC" "10305051"(src/test/resources/features/CambioClaveOlvido.feature:11)
+</system-err></testcase></testsuite>

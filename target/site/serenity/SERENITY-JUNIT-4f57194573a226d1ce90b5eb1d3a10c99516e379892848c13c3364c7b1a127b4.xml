@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Login Robusto" skipped="0" tests="1" time="152.03" timestamp="2023-11-24 07:33:09"><testcase name="Login - Ingreso erróneo de clave."><failure message="No pudo interactuar con el elemento: //XCUIElementTypeNavigationBar[@name=&quot;Recuperación de clave&quot;]/XCUIElementTypeButton" type="java.lang.AssertionError">No pudo interactuar con el elemento: //XCUIElementTypeNavigationBar[@name="Recuperación de clave"]/XCUIElementTypeButton</failure><system-err>No pudo interactuar con el elemento: //XCUIElementTypeNavigationBar[@name="Recuperación de clave"]/XCUIElementTypeButton
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:167)
+daviplata.nacional.iOS.steps.LoginRobustoSteps.incorrectPasswordEntry(LoginRobustoSteps.java:126)
+daviplata.nacional.iOS.definitions.LoginRobustoDefinitions.ingresoNuevamenteClaveDeManeraErronea(LoginRobustoDefinitions.java:50)
+✽.ingreso nuevamente clave de manera errónea "CC" "10305051" "0000"(src/test/resources/features/loginRobusto.feature:77)
+</system-err></testcase></testsuite>

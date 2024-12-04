@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Registro Civica" skipped="0" tests="1" time="233.73" timestamp="2023-12-19 11:51:56"><testcase name="CP0029M_SYS_Validar el registro de un usuario BMO"><failure message="No pudo interactuar con el elemento: (//XCUIElementTypeButton[@name=&quot;Continuar&quot;])[2]" type="java.lang.AssertionError">No pudo interactuar con el elemento: (//XCUIElementTypeButton[@name="Continuar"])[2]</failure><system-err>No pudo interactuar con el elemento: (//XCUIElementTypeButton[@name="Continuar"])[2]
+civica.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:164)
+civica.nacional.iOS.steps.RegistroCivicaSteps.authorizeTermsCond(RegistroCivicaSteps.java:216)
+civica.nacional.iOS.definitions.RegistroCivicaDefinitions.autorizoTerminosYCondiciones(RegistroCivicaDefinitions.java:59)
+✽.autorizo terminos y condiciones "3142045575"(src/test/resources/features/RegistroCivica.feature:83)
+</system-err></testcase></testsuite>

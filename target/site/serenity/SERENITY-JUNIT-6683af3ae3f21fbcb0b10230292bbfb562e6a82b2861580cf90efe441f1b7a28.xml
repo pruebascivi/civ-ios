@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Cambio de clave" skipped="0" tests="1" time="70.35" timestamp="2024-08-01 10:22:44"><testcase name="CP001704M_SYS_Validar el pop up de rechazo cuando se ingresa la clave existente."><failure message="No se pudo interactuar con el elemento: //XCUIElementTypeSecureTextField[@name='Ingresa tu clave']" type="java.lang.AssertionError">No se pudo interactuar con el elemento: //XCUIElementTypeSecureTextField[@name='Ingresa tu clave']</failure><system-err>No se pudo interactuar con el elemento: //XCUIElementTypeSecureTextField[@name='Ingresa tu clave']
+civica.nacional.iOS.utilidades.UtilidadesTCS.writeElement(UtilidadesTCS.java:431)
+civica.nacional.iOS.steps.LoginCivicaSteps.enterCredentials(LoginCivicaSteps.java:159)
+civica.nacional.iOS.definitions.LoginCivicaDefinitions.ingresoLasCredenciales(LoginCivicaDefinitions.java:32)
+✽.ingreso las credenciales "CE" "9999814" "1438"(src/test/resources/features/CambioClaveCivica.feature:139)
+</system-err></testcase></testsuite>

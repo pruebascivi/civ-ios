@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Pasar Plata Core" skipped="0" tests="1" time="200.06" timestamp="2024-02-14 02:13:32"><testcase name="CP0036M_SYS_Realizar un pasar plata exitoso con un usuario MET, COMÚN a un usuario OnHold."><failure message="No se pudo interactuar con el elemento: //XCUIElementTypeStaticText[@name=&quot;Pasaste plata&quot;]" type="java.lang.AssertionError">No se pudo interactuar con el elemento: //XCUIElementTypeStaticText[@name="Pasaste plata"]</failure><system-err>No se pudo interactuar con el elemento: //XCUIElementTypeStaticText[@name="Pasaste plata"]
+civica.nacional.iOS.utilidades.UtilidadesTCS.validateElementVisibility(UtilidadesTCS.java:346)
+civica.nacional.iOS.steps.PasarPlataCivicaSteps.validateDataAndContinue(PasarPlataCivicaSteps.java:78)
+civica.nacional.iOS.definitions.PasarPlataCivicaDefinitions.validoDatosIngresadosYDoyAPasarPlata(PasarPlataCivicaDefinitions.java:39)
+✽.valido datos ingresados y doy a 'Pasar Plata' "2587"(src/test/resources/features/PasarPlata.feature:201)
+</system-err></testcase></testsuite>

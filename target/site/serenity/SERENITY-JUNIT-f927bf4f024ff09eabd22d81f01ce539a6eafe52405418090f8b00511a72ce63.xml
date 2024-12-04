@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Cambio de clave" skipped="0" tests="1" time="104.41" timestamp="2024-02-12 05:17:52"><testcase name="CP001709M_SYS_Realizar el cambio de clave para un usuario BMO."><failure message="La contraseña no debe comenzar por '19' o '20' ni debe ser igual a la existente." type="java.lang.AssertionError">La contraseña no debe comenzar por '19' o '20' ni debe ser igual a la existente.</failure><system-err>La contraseña no debe comenzar por '19' o '20' ni debe ser igual a la existente.
+civica.nacional.iOS.steps.CambioClaveCivicaSteps.createNewPass(CambioClaveCivicaSteps.java:47)
+civica.nacional.iOS.definitions.CambioClaveCivicaDefinitions.creoMiNuevaClaveCivica(CambioClaveCivicaDefinitions.java:29)
+✽.creo mi nueva clave Cívica "1437"(src/test/resources/features/CambioClaveCivica.feature:181)
+</system-err></testcase></testsuite>

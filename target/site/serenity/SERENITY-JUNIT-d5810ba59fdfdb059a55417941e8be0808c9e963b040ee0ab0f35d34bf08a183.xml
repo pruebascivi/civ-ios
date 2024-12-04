@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Registro Core" skipped="0" tests="1" time="136.49" timestamp="2023-12-12 03:47:04"><testcase name="Registro Core - Validar el registro de un usuario CC, quede con subtipo MET + Mensaje de Bienvenida."><failure message="No pudo interactuar con el elemento: //XCUIElementTypeTextField[@name=&quot;Telefono celular&quot;]" type="java.lang.AssertionError">No pudo interactuar con el elemento: //XCUIElementTypeTextField[@name="Telefono celular"]</failure><system-err>No pudo interactuar con el elemento: //XCUIElementTypeTextField[@name="Telefono celular"]
+civica.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:161)
+civica.nacional.iOS.steps.RegistroCivicaSteps.authorizeTermsCond(RegistroCivicaSteps.java:154)
+civica.nacional.iOS.definitions.RegistroCivicaDefinitions.autorizoTerminosYCondiciones(RegistroCivicaDefinitions.java:64)
+✽.autorizo terminos y condiciones "3142045585"(src/test/resources/features/RegistroCivica.feature:16)
+</system-err></testcase></testsuite>

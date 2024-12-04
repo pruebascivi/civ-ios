@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Registro Civica" skipped="0" tests="1" time="92.2" timestamp="2023-12-22 10:32:21"><testcase name="CP0028M_SYS_Realizar el registro de un usuario Migrado"><failure message="No se pudo interactuar con el elemento: //*[@name='Regístrate']" type="java.lang.AssertionError">No se pudo interactuar con el elemento: //*[@name='Regístrate']</failure><system-err>No se pudo interactuar con el elemento: //*[@name='Regístrate']
+civica.nacional.iOS.utilidades.UtilidadesTCS.validateElementVisibility(UtilidadesTCS.java:271)
+civica.nacional.iOS.steps.RegistroCivicaSteps.enterCredentials1(RegistroCivicaSteps.java:47)
+civica.nacional.iOS.definitions.RegistroCivicaDefinitions.registroDeLasCredencialesManual(RegistroCivicaDefinitions.java:24)
+✽.registro de las credenciales manual "CC" "20212244" "1234" "19" "Abril" "2001"(src/test/resources/features/RegistroCivica.feature:57)
+</system-err></testcase></testsuite>

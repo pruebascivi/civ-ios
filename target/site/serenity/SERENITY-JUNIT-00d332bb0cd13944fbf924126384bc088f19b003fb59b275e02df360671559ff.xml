@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Registro Civica" skipped="0" tests="1" time="218.65" timestamp="2024-02-26 04:35:17"><testcase name="CP002910M_Verificar que al intentar registrar un usuario con un número de identificación ya existente el mensaje ¡Ups! Lo sentimos. Cuentas con registro en el App Daviplata activo con otro número. Para cambiarlo ingresa al botón ¿Necesitas ayuda?”."><failure message="No pudo interactuar con el elemento: //XCUIElementTypeTextField[@name='Telefono celular']" type="java.lang.AssertionError">No pudo interactuar con el elemento: //XCUIElementTypeTextField[@name='Telefono celular']</failure><system-err>No pudo interactuar con el elemento: //XCUIElementTypeTextField[@name='Telefono celular']
+civica.nacional.iOS.utilidades.UtilidadesTCS.clicElement(UtilidadesTCS.java:203)
+civica.nacional.iOS.steps.RegistroCivicaSteps.authorizeTermsCond(RegistroCivicaSteps.java:251)
+civica.nacional.iOS.definitions.RegistroCivicaDefinitions.autorizoTerminosYCondiciones(RegistroCivicaDefinitions.java:64)
+✽.autorizo terminos y condiciones "3142045549"(src/test/resources/features/RegistroCivica.feature:124)
+</system-err></testcase></testsuite>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Cambio de clave" skipped="0" tests="1" time="530.37" timestamp="2024-09-05 10:20:17"><testcase name="Cambio_clave_CP0023M_SYS_Validar que despues de cambiar la clave se ingrese nuevamente a la APP con la clave nueva."><failure message="No se pudo interactuar con el elemento: //XCUIElementTypeStaticText[@name='Número celular']/following-sibling::XCUIElementTypeStaticText" type="java.lang.AssertionError">No se pudo interactuar con el elemento: //XCUIElementTypeStaticText[@name='Número celular']/following-sibling::XCUIElementTypeStaticText</failure><system-err>No se pudo interactuar con el elemento: //XCUIElementTypeStaticText[@name='Número celular']/following-sibling::XCUIElementTypeStaticText
+civica.nacional.iOS.utilidades.UtilidadesTCS.obtenerTexto(UtilidadesTCS.java:348)
+civica.nacional.iOS.steps.LoginCivicaSteps.verifyToBeInsideTheApp(LoginCivicaSteps.java:370)
+civica.nacional.iOS.definitions.LoginCivicaDefinitions.verificoQueMeEncuentroEnElInicioDeLaApp(LoginCivicaDefinitions.java:58)
+✽.verifico que me encuentro en el inicio de la app(src/test/resources/features/CambioClaveCivica.feature:156)
+</system-err></testcase></testsuite>

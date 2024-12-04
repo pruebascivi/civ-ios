@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Login Civica" skipped="0" tests="1" time="17.01" timestamp="2024-09-16 04:56:57"><testcase name="Login_CP0001M_SYS_Validar el ingreso a la APP Cívica con un usuario MET - CC."><error message="ERROR: null" type="java.lang.AssertionError">ERROR: null</error><system-err>ERROR: null
+civica.nacional.iOS.steps.WebRedebanSteps.consultaNumeroCelular(WebRedebanSteps.java:337)
+civica.nacional.iOS.definitions.WebRedebanDefinitions.obtenerNumeroCelularActualEnRedebanAumentoDeTopes(WebRedebanDefinitions.java:208)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+civica.nacional.iOS.runners.RunnerPersonalizado.run(RunnerPersonalizado.java:62)
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+</system-err></testcase></testsuite>

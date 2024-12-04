@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Pago servicios publicos y privados" skipped="0" tests="1" time="594.37" timestamp="2024-09-17 02:25:05"><testcase name="Hacer_pagos_CP0056M_SYS_Validar secciones en Hacer Pagos"><failure message="No se pudo interactuar con el elementojavax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)" type="java.lang.AssertionError">No se pudo interactuar con el elementojavax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)</failure><system-err>No se pudo interactuar con el elementojavax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+civica.nacional.iOS.steps.LoginCivicaSteps.enterCredentials(LoginCivicaSteps.java:180)
+civica.nacional.iOS.definitions.LoginCivicaDefinitions.ingresoLasCredenciales(LoginCivicaDefinitions.java:33)
+✽.ingreso las credenciales "CC" "215333181" "4568"(src/test/resources/features/PagoServicios.feature:10)
+</system-err></testcase></testsuite>
